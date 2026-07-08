@@ -8,7 +8,7 @@ The project combines **data analytics**, **interactive visualizations**, and **m
 
 ## 🌐 Live Demo
 
-🔗 **Coming Soon** *(Add your Streamlit deployment link here after deployment)*
+🔗 https://job-market-intelligence-l5yuzfofbkw967r2hlxelm.streamlit.app/
 
 ---
 
@@ -191,7 +191,7 @@ Job_market_intelligence_project
 Clone the repository
 
 ```bash
-git clone https://github.com/Punit-IIT/job-market-intelligence.git
+git clone https://github.com/Punit-IITPKD/Job-market-intelligence.git
 ```
 
 Move into the project directory

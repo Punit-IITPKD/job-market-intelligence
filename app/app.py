@@ -116,7 +116,7 @@ st.sidebar.divider()
 
 st.sidebar.link_button(
     "🌐 View GitHub Repository",
-    "https://github.com/Punit-IITPKD/job-market-intelligence.git",
+    "https://github.com/Punit-IITPKD/Job-market-intelligence.git",
     use_container_width=True
 )
 
